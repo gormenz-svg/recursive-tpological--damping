@@ -58,6 +58,11 @@ To demonstrate the stability of the **RTD Protocol**, I have simulated a high-en
 
 
 https://github.com/user-attachments/assets/c37c5bfb-ab54-4047-b0de-d0d344a9f4a8
+## Как запустить
 
+1. git clone https://github.com/gormenz-svg/recursive-topological-damping.git
+2. cd recursive-topological-damping
+3. pip install numpy matplotlib scipy
+4. python rtd_simulation.py
 ---
 *Developed for the future of interstellar medical stability.*
