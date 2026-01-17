@@ -45,4 +45,17 @@ $$S = \min \sum_{k=1}^{n} \left\| X_{target} - \Phi(x_k, A^k) \right\| - \Gamma(
 * **Autonomy:** Transitions surgical systems from "assisted mode" to **Absolute Robotic Autonomy**.
 
 ---
+
+## 💻 Simulation & Proof of Concept
+
+To demonstrate the stability of the **RTD Protocol**, I have simulated a high-entropy environment with **40% stochastic noise** (representing cardiac pulsation, respiratory drift, and unexpected biological displacement).
+
+### Key Result:
+* **Red Line:** Raw sensor telemetry with extreme biological noise.
+* **Cyan Line:** RTD-stabilized trajectory (Coherence > 0.98).
+
+
+https://github.com/user-attachments/assets/c37c5bfb-ab54-4047-b0de-d0d344a9f4a8
+
+---
 *Developed for the future of interstellar medical stability.*
