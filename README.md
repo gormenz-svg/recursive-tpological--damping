@@ -61,16 +61,12 @@ https://github.com/user-attachments/assets/c37c5bfb-ab54-4047-b0de-d0d344a9f4a8
 
 ## 🚀 Installation & Quick Start
 
-To replicate the simulation results on your local machine, follow these steps:
+Clone the repo
+git clone https://github.com/gormenz-svg/recursive-topological-damping.git
+* cd recursive-topological-damping
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/gormenz-svg/recursive-topological-damping.git](https://github.com/gormenz-svg/recursive-   topological-damping.git)
-   cd recursive-topological-damping
 
-   pip3 install numpy matplotlib
 
-   python3 rtd_live.py
 
 ---
 *Developed for the future of interstellar medical stability.*
